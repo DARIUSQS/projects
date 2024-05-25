@@ -1,0 +1,3 @@
+/home/darius/Dev/cpp/projects/calculator/CMakeFiles/ccalc.dir
+/home/darius/Dev/cpp/projects/calculator/CMakeFiles/edit_cache.dir
+/home/darius/Dev/cpp/projects/calculator/CMakeFiles/rebuild_cache.dir

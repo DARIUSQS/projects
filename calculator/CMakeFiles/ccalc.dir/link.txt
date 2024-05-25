@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ccalc.dir/calc.cpp.o CMakeFiles/ccalc.dir/main.cpp.o -o ccalc
